@@ -1,4 +1,10 @@
-[![sirluan](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/sirluan)
+[![sirluan](https://img.shields.io/badge/sirluan-github-blue?logo=github)](https://github.com/sirluan)
+
+#### 个人简介  
+**性别：**男
+**年龄：**21
+**学历：**本科
+**电话：**+86 193 5738 0046
 
 #### Email  
 <code>2783697900@qq.com</code>
