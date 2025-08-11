@@ -6,13 +6,13 @@ Github: <code>https://github.com/sirluan/xiaoluan_life</code>
 
 独自负责个人小程序的开发，已上线，实现了登录，记账，留言，待办，翻译，纪念日，展示博客文章等功能
 
-**前端：**uniapp+vue3+cursor的AI编程辅助开发
+**前端：** uniapp+vue3+cursor的AI编程辅助开发
 
-**后端：**Python+fastapi
+**后端：** Python+fastapi
 
-**数据库：**MySQL
+**数据库：** MySQL
 
-**云原生：**sealos：基于k8s实现的云操作系统
+**云原生：** sealos：基于k8s实现的云操作系统
 
 ---
 
