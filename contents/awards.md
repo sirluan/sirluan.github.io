@@ -1,6 +1,6 @@
 #### 个人小程序开发 | 全栈
 
-Github: [https://github.com/sirluan/xiaoluan_life](https://github.com/sirluan/xiaoluan_life)
+Github: ![https://github.com/sirluan/xiaoluan_life](https://github.com/sirluan/xiaoluan_life)
 
 **小程序名称：** 小栾life
 
@@ -24,7 +24,7 @@ Github: [https://github.com/sirluan/xiaoluan_life](https://github.com/sirluan/xi
 
 #### AIpyecharts  | AI agent
 
-Github: [https://github.com/sirluan/AIPyecharts](https://github.com/sirluan/AIPyecharts)
+Github: ![https://github.com/sirluan/AIPyecharts](https://github.com/sirluan/AIPyecharts)
 
 基于LangChain和pyecharts，用自然语言快速生成可交互式图表
 
@@ -32,7 +32,7 @@ Github: [https://github.com/sirluan/AIPyecharts](https://github.com/sirluan/AIPy
 
 #### AIdatetime | AI agent
 
-Github: [https://github.com/sirluan/AIdatetime](https://github.com/sirluan/AIdatetime)
+Github: ![https://github.com/sirluan/AIdatetime](https://github.com/sirluan/AIdatetime)
 
 更智能的日期解析工具，如“25年七月1日，2025年儿童节，2025年二月最后一天，11点”这些文本经AI分析后可返回python中内置的datetime对象
 
@@ -42,6 +42,6 @@ Github: [https://github.com/sirluan/AIdatetime](https://github.com/sirluan/AIdat
 
 #### Pymysql_interactive | python package
 
-GitHub: [https://github.com/sirluan/pymysql_interactive](https://github.com/sirluan/pymysql_interactive)
+GitHub: ![https://github.com/sirluan/pymysql_interactive](https://github.com/sirluan/pymysql_interactive)
 
 可交互的pymysql，使用python运行即可进入交互式sql环境，直接使用sql语句进行数据库操作，逐句运行，返回表数据由pandas的dataframe展示，更简洁直白

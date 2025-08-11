@@ -9,12 +9,12 @@
 
 **电话：** +86 193 5738 0046
 
-**个人博客:** [www.sirluan.com](https://www.sirluan.com)
+**个人博客:** ![www.sirluan.com](https://www.sirluan.com)
 
 **个人微信小程序** 小栾life
 
 #### Email  
-[2783697900@qq.com](mailto:2783697900@qq.com)
+![2783697900@qq.com](mailto:2783697900@qq.com)
 
 #### 教育背景  
 **杭州电子科技大学**, 信息与计算科学(本科) (2022.9 – 2026.6)  
