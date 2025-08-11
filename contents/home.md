@@ -1,13 +1,20 @@
 [![sirluan](https://img.shields.io/badge/sirluan-github-blue?logo=github)](https://github.com/sirluan)
 
 #### 个人简介  
-**性别：**男
-**年龄：**21
-**学历：**本科
-**电话：**+86 193 5738 0046
+**性别：** 男
+
+**年龄：** 21
+
+**学历：** 本科
+
+**电话：** +86 193 5738 0046
+
+**个人博客:** [www.sirluan.com](https://www.sirluan.com)
+
+**个人微信小程序** 小栾life
 
 #### Email  
-<code>2783697900@qq.com</code>
+[2783697900@qq.com](mailto:2783697900@qq.com)
 
 #### 教育背景  
 **杭州电子科技大学**, 信息与计算科学(本科) (2022.9 – 2026.6)  
