@@ -6,13 +6,13 @@ Github: <code>https://github.com/sirluan/xiaoluan_life</code>
 
 独自负责个人小程序的开发，已上线，实现了登录，记账，留言，待办，翻译，纪念日，展示博客文章等功能
 
-前端：uniapp+vue3+cursor的AI编程辅助开发
+**前端：**uniapp+vue3+cursor的AI编程辅助开发
 
-后端：Python+fastapi
+**后端：**Python+fastapi
 
-数据库：MySQL
+**数据库：**MySQL
 
-云原生：sealos：基于k8s实现的云操作系统
+**云原生：**sealos：基于k8s实现的云操作系统
 
 #### 接单微信小程序制作 | 全栈
 
@@ -26,7 +26,7 @@ Github: <code>https://github.com/sirluan/xiaoluan_life</code>
 
 Github: <code>https://github.com/sirluan/AIPyecharts</code>
 
-基于LangChain和pyecharts，用自然语言快速生成可交互式图表
+基于LangChain和pyecharts，**用自然语言快速生成可交互式图表**
 
 可使用自然语言选择生成的图表及图表的配置，如“生成柱状图，标题为表一，x轴名称为年份”，即可按照要求自动生成HTML文件，可在浏览器或在jupyter notebook中打开查看图表。
 
